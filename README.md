@@ -1,11 +1,47 @@
-GENx News
+GENx Community
+Join the GENx Movement
 
-Stay informed with the latest developments across the GENx ecosystem.
+GENx is being built with the community at its centre.
 
-This section features official announcements, product releases, partnership updates, governance proposals, and community achievements.
+Follow our official channels for:
 
-Transparency is a core value of GENx. Every important milestone, upgrade, and ecosystem development will be shared with our community through this news portal.
+    Development updates
 
-The future moves quickly.
+    Launch announcements
 
-Stay connected with GENx.
+    Governance information
+
+    Staking updates
+
+    Community events
+
+    Ecosystem news
+
+
+OFFICIAL CHANNELS
+X
+
+X Link
+FACEBOOK
+
+Facebook Group Link
+GITHUB
+
+Github Link
+WEBSITE
+
+GENx Link
+
+BUY GENx.
+
+VIEW TOKEN.
+
+SCAM WARNING
+
+GENx will never ask you to send GENx or SOL to an individual in exchange for guaranteed profits, guaranteed tokens or special access.
+
+Always verify links through the official GENx website.
+
+One token. One official mint address.
+
+
