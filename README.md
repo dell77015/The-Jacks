@@ -20,4 +20,8 @@ Our ecosystem includes:
 
     Future Cross-Chain Integrations
 
+    Token Address : 6cn91w7LaRUARJJKAtD8hjZGzpcFtJZyBAr9devmbMV5
+
+    Symbol : GENx
+
 As the ecosystem evolves, GENx will continue introducing innovative products designed to increase utility, strengthen decentralization, and create lasting value for the community.
