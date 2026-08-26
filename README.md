@@ -1,23 +1,13 @@
-GENx Wallet
+Risk Disclaimer
 
-Your gateway to the GENx ecosystem.
+GENx is a cryptocurrency asset and involves substantial risk.
 
-The GENx Wallet has been designed to provide a secure, intuitive, and premium experience for managing digital assets.
+The value of GENx may fluctuate significantly, and participants may lose some or all of their funds.
 
-Features include:
+Nothing published by GENx should be interpreted as financial, investment, tax or legal advice, or as a guarantee of future performance.
 
-    Secure asset storage
+Roadmap items and future functionality are subject to development and may change, be delayed or not be implemented.
 
-    Instant transfers
+Users should conduct their own research and obtain independent professional advice where appropriate before interacting with GENx.
 
-    Staking management
-
-    Governance voting
-
-    Portfolio tracking
-
-    Multi-layer security
-
-    Future DeFi integrations
-
-Whether you are staking, voting, or managing your portfolio, the GenX Wallet keeps you connected to every opportunity within the ecosystem.
+Only use official GENx links and verify the official Solana mint address before purchasing or interacting with GENx.
