@@ -1,21 +1,80 @@
-Roadmap
 
-GENx follows a carefully planned development strategy focused on delivering real utility.
-Phase One
+GENx Roadmap
+BUILDING GENx — STEP BY STEP
 
-Foundation, branding, website launch, smart contract development, community growth.
-Phase Two
+GENx is being developed progressively, with each stage focused on creating a stronger foundation for the ecosystem.
 
-Token launch, staking platform, governance voting, exchange partnerships.
-Phase Three
+PHASE 1 — FOUNDATION
+Completed / Current
 
-Wallet integration, DeFi expansion, ecosystem incentives, strategic collaborations.
-Phase Four
+    GENx brand development
 
-Cross-chain interoperability, institutional partnerships, ecosystem scaling.
-Phase Five
+    GENx token creation
 
-Global adoption, enterprise solutions, expanded governance, next-generation DeFi innovations.
+    Website
 
-GenX is committed to continuous innovation driven by its community.
+    Initial project documentation
+
+    Community development
+
+    Tokenomics development
+
+
+PHASE 2 — LAUNCH
+Building
+
+    GENx liquidity
+
+    Token metadata
+
+    Security review
+
+    Community launch
+
+    DEX accessibility
+
+    Token tracking applications
+
+
+PHASE 3 — ECOSYSTEM
+Planned
+
+    GENx staking
+
+    Governance
+
+    Community rewards
+
+    Ecosystem partnerships
+
+    Additional DeFi functionality
+
+
+PHASE 4 — EXPANSION
+Planned
+
+    GENx ecosystem applications
+
+    Additional integrations
+
+    Developer initiatives
+
+    Expanded governance
+
+    Strategic partnerships
+
+
+PHASE 5 — GENx ECOSYSTEM
+Long-Term Vision
+
+GENx aims to develop into a broader community-driven DeFi ecosystem where GENx provides utility across multiple products and services.
+
+ROADMAP PRINCIPLE
+
+Roadmap items may change as development progresses.
+
+GENx will communicate significant changes through official channels.
+
+BUILD. DEVELOP. DELIVER.
+
 
