@@ -1,59 +1,56 @@
-GENx
-The Beginning of a New Financial Era
+GENx Governance
+Your Voice in the Future of GENx
 
-GENx is a community-driven DeFi ecosystem built on Solana, focused on governance, staking and long-term ecosystem utility.
+GENx is designed to become increasingly community-driven as the ecosystem develops.
 
-GENx is designed to give its community a meaningful role in the development of the ecosystem while creating practical utility around the GENx token.
-BUILT ON SOLANA
-100,000,000 GENx MAXIMUM SUPPLY
-DEFI • STAKING • GOVERNANCE
+GENx is intended to provide governance utility within eligible GENx ecosystem decisions.
 
-BUY GENx
+POTENTIAL GOVERNANCE AREAS
 
-VIEW TOKEN
+GENx governance may eventually cover:
 
-WHY GENx?
-GOVERNANCE
+    Ecosystem proposals
 
-GENx is designed to give the community a voice in eligible GENx ecosystem decisions and future development.
-STAKING
+    Community initiatives
 
-Staking functionality is designed to encourage long-term participation within the GENx ecosystem.
-ECOSYSTEM
+    Treasury proposals
 
-GENx is being developed as an expanding DeFi ecosystem with future products and integrations planned around GENx utility.
+    Staking parameters
 
-TRANSPARENCY FIRST
+    Ecosystem development
 
-GENx believes users should be able to independently verify important project information.
+    Partnerships
 
-Official Solana Mint
+    Future product priorities
 
-6cn91w7LaRUARJJKAtD8hjZGzpcFtJZyBAr9devmbMV5
 
-Token: GENx
-Network: Solana
-Maximum Supply: 100,000,000 GENx
+HOW IT WILL WORK
 
-Always verify the official mint address before purchasing or interacting with GENx.
+When governance is launched, eligible GENx holders will be able to review proposals and participate according to the published governance rules.
 
-OUR VISION
+Governance rules will specify:
 
-GENx is being built for the long term.
+    Voting eligibility
 
-Our goal is to create a transparent, community-driven ecosystem where GENx has genuine utility across governance, staking and future GENx products.
-TRANSPARENCY
+    Proposal requirements
 
-Clear token information and public project communication.
-UTILITY
+    Voting periods
 
-Building practical uses for GENx within the ecosystem.
-COMMUNITY
+    Quorum requirements
 
-Giving the community a meaningful role in GENx development.
+    Approval thresholds
 
-ENTER THE GENx ECOSYSTEM
+    Execution procedures
 
-Follow the official GENx channels for development updates, announcements and launch information.
 
-DYOR — Always conduct your own research before purchasing or interacting with any digital asset.
+CURRENT STATUS
+
+GOVERNANCE STATUS: PLANNED / IN DEVELOPMENT
+
+Governance should only be described as operational once the relevant system has been deployed and tested.
+
+COMMUNITY FIRST
+
+GENx believes the long-term success of the ecosystem depends on an informed and engaged community.
+
+GENx governance is intended to provide a transparent mechanism for community participation.
