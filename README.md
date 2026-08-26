@@ -1,16 +1,33 @@
 Contact GENx
+Official GENx Channels
 
-We welcome inquiries from investors, developers, strategic partners, media representatives, and community members.
+For announcements and community support, use only the official channels listed below.
 
-Whether you are interested in partnerships, technical collaboration, business opportunities, or general support, our team is ready to assist.
-General Enquiries
+WEBSITE
 
-For questions about GENx, staking, governance, or the ecosystem, please contact our support team.
-Partnerships
+WEB link.
 
-We are always open to collaborating with organizations that share our vision for decentralized finance and blockchain innovation.
-Community
+X
 
-Follow our official social channels to receive the latest announcements, governance updates, and ecosystem news.
+X Link.
 
-GENx is building the future of decentralized finance—together.
+FACEBOOK 
+
+Facebook Link.
+
+SECURITY NOTICE
+
+GenX team members will never request your:
+
+    Seed phrase
+
+    Private key
+
+    Wallet password
+
+    Recovery phrase
+
+Never provide these to anyone.
+
+If someone contacts you claiming to represent GENx and asks for your private wallet credentials, treat the message as a scam.
+
