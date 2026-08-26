@@ -1,22 +1,69 @@
-The GENx Coin
+GENx Token
+Official Token Information
 
-GENx Coin is the native digital asset powering the GENx ecosystem.
+Property
 
-Designed for long-term value and sustainable growth, the token serves as the foundation for governance participation, ecosystem incentives, and premium staking opportunities.
+Information
 
-Every GENx holder becomes part of a global community committed to building a decentralized future.
-Utility
+Name:
 
-    Governance voting
+GENx
 
-    Staking rewards
+Symbol:
 
-    Ecosystem participation
+GENx
 
-    Future platform integrations
+Blockchain:
 
-    Community incentives
+Solana
 
-GENx Coin is not simply held.
+Maximum Supply:
 
-It is used to shape the future.
+100,000,000 GENx
+
+Mint Address:
+
+6cn91w7LaRUARJJKAtD8hjZGzpcFtJZyBAr9devmbMV5
+
+OFFICIAL SOLANA MINT
+
+6cn91w7LaRUARJJKAtD8hjZGzpcFtJZyBAr9devmbMV5
+VERIFY BEFORE YOU BUY
+
+This is the official GENx mint address currently published by the project.
+
+Never purchase GENx from an address received through an unsolicited message or unofficial social-media account.
+
+TOKEN AUTHORITIES
+
+GENx will publish the current status of:
+
+Mint Authority
+
+4ogkYaZVgAdPxfbFQphqQUuBCm3gZUBjwQZ753rTKv6x
+
+Freeze Authority
+
+https://sol-incinerator.com/
+
+These values should be verified directly on-chain.
+
+Solana supports configurable mint and freeze authorities.
+
+BUY GENx.
+
+VIEW TOKEN.
+
+EXPLORER
+
+VIEW GENx ON SOLANA EXPLORER
+
+VIEW GENx ON SOLFLARE
+
+VIEW GENx ON RUGCHECK
+
+DISCLAIMER
+
+GENx is a cryptocurrency asset. Its value may fluctuate substantially, and participation involves risk.
+
+Always conduct your own research
