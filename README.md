@@ -1,23 +1,76 @@
+
 GENx Whitepaper
+GENx — Building the Foundation for a Community-Driven DeFi Ecosystem
+Version 1.0
 
-GENx is a decentralized finance platform designed to combine security, transparency, and community governance into a premium blockchain ecosystem.
+1. Abstract
 
-The GENx protocol empowers token holders to participate directly in the platform's evolution through governance voting while earning rewards by supporting network growth through staking.
+GENx is a community-driven DeFi ecosystem built on Solana.
 
-Core principles include:
+GENx is designed to provide governance and ecosystem utility while supporting future staking and DeFi functionality.
 
-    Decentralization
+2. Vision
 
-    Transparency
+GENx aims to develop an accessible, transparent and community-driven ecosystem for the next generation of blockchain users.
 
-    Community ownership
+3. The GENx Ecosystem
 
-    Security
+The ecosystem is planned around:
 
-    Sustainable economics
+    GENx
 
-    Continuous innovation
+    Staking
 
-Our architecture has been designed to support future integrations, scalable infrastructure, and long-term ecosystem expansion.
+    Governance
 
-The GENx Whitepaper serves as the technical and strategic blueprint guiding every stage of our development.
+    DeFi functionality
+
+    Community participation
+
+    Future ecosystem applications
+
+
+4. GENx Token
+
+Blockchain: Solana
+
+Maximum Supply: 100,000,000 GENx
+
+Mint:
+6cn91w7LaRUARJJKAtD8hjZGzpcFtJZyBAr9devmbMV5
+
+5. Tokenomics
+
+See the complete allocation published on the GENx Tokenomics page.
+
+6. Governance
+
+GENx is intended to provide governance utility within the GENx ecosystem.
+
+7. Staking
+
+Staking functionality is planned to provide a mechanism for eligible users to participate in the GENx ecosystem.
+
+8. Security
+
+GENx will prioritise transparent development, responsible wallet management and independent security review where appropriate.
+
+9. Roadmap
+
+GENx will develop progressively through foundation, launch, ecosystem and expansion phases.
+
+10. Risks
+
+Cryptocurrency assets involve significant risk.
+
+GENx may lose substantial or all of its value.
+
+There is no guarantee that planned GENx features will be completed or that GENx will increase in value.
+
+11. Conclusion
+
+GENx aims to build an ecosystem based on utility, transparency and community participation.
+
+The GENx journey begins with GENx.
+
+
