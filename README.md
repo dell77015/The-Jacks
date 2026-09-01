@@ -1,14 +1,14 @@
-The GENx Ecosystem
+The The Jacks Ecosystem
 
-GENx is more than a token—it is an expanding decentralized ecosystem built to deliver real utility.
+The Jacks is more than a token—it is an expanding decentralized ecosystem built to deliver real utility.
 
 Every component works together to create a seamless digital financial experience.
 
 Our ecosystem includes:
 
-    GENx Coin
+    The Jacks Coin
 
-    GENx Wallet
+    The Jacks Wallet
 
     Governance Platform
 
@@ -22,6 +22,6 @@ Our ecosystem includes:
 
     Token Address : 6cn91w7LaRUARJJKAtD8hjZGzpcFtJZyBAr9devmbMV5
 
-    Symbol : GENx
+    Symbol : The Jacks (T3JX)
 
-As the ecosystem evolves, GENx will continue introducing innovative products designed to increase utility, strengthen decentralization, and create lasting value for the community.
+As the ecosystem evolves,  The Jacks will continue introducing innovative products designed to increase utility, strengthen decentralization, and create lasting value for the community.
