@@ -13,7 +13,6 @@ What is The Jacks used for?
 The Jacks is intended to provide governance and ecosystem utility, with staking and additional functionality planned.
 What is the official token address?
 
-6cn91w7LaRUARJJKAtD8hjZGzpcFtJZyBAr9devmbMV5
 
 Always verify this address before interacting with the token.
 Is staking live?
