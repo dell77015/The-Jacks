@@ -1,4 +1,4 @@
-GENx Token
+ The Jacks Token
 Official Token Information
 
 Property
@@ -7,11 +7,11 @@ Information
 
 Name:
 
-GENx
+The Jacks
 
 Symbol:
 
-GENx
+T3JX
 
 Blockchain:
 
@@ -19,28 +19,26 @@ Solana
 
 Maximum Supply:
 
-100,000,000 GENx
+1,000,000,000 T3JX
 
 Mint Address:
 
-6cn91w7LaRUARJJKAtD8hjZGzpcFtJZyBAr9devmbMV5
+
 
 OFFICIAL SOLANA MINT
 
 6cn91w7LaRUARJJKAtD8hjZGzpcFtJZyBAr9devmbMV5
 VERIFY BEFORE YOU BUY
 
-This is the official GENx mint address currently published by the project.
+This is the official  The Jacks mint address currently published by the project.
 
-Never purchase GENx from an address received through an unsolicited message or unofficial social-media account.
+Never purchase The Jacks from an address received through an unsolicited message or unofficial social-media account.
 
 TOKEN AUTHORITIES
 
-GENx will publish the current status of:
+The Jacks will publish the current status of:
 
 Mint Authority
-
-4ogkYaZVgAdPxfbFQphqQUuBCm3gZUBjwQZ753rTKv6x
 
 Freeze Authority
 
@@ -50,20 +48,20 @@ These values should be verified directly on-chain.
 
 Solana supports configurable mint and freeze authorities.
 
-BUY GENx.
+BUY The Jacks
 
 VIEW TOKEN.
 
 EXPLORER
 
-VIEW GENx ON SOLANA EXPLORER
+VIEW The Jacks  ON SOLANA EXPLORER
 
-VIEW GENx ON SOLFLARE
+VIEW The Jacks  ON SOLFLARE
 
-VIEW GENx ON RUGCHECK
+VIEW  The Jacks ON RUGCHECK
 
 DISCLAIMER
 
-GENx is a cryptocurrency asset. Its value may fluctuate substantially, and participation involves risk.
+The Jacks is a cryptocurrency asset. Its value may fluctuate substantially, and participation involves risk.
 
 Always conduct your own research
