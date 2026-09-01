@@ -1,79 +1,79 @@
 
-GENx Roadmap
-BUILDING GENx — STEP BY STEP
+The Jacks Roadmap
+BUILDING  The Jacks — STEP BY STEP
 
-GENx is being developed progressively, with each stage focused on creating a stronger foundation for the ecosystem.
+ The Jacks is being developed progressively, with each stage focused on creating a stronger foundation for the ecosystem.
 
 PHASE 1 — FOUNDATION
 Completed / Current
 
-    GENx brand development
+The Jacks brand development
 
-    GENx token creation
+The Jacks token creation
 
-    Website
+Website
 
-    Initial project documentation
+Initial project documentation
 
-    Community development
+Community development
 
-    Tokenomics development
+Tokenomics development
 
 
 PHASE 2 — LAUNCH
 Building
 
-    GENx liquidity
+The Jacks liquidity
 
-    Token metadata
+Token metadata
 
-    Security review
+Security review
 
-    Community launch
+Community launch
 
-    DEX accessibility
+DEX accessibility
 
-    Token tracking applications
+token tracking applications
 
 
 PHASE 3 — ECOSYSTEM
 Planned
 
-    GENx staking
+ The Jacks staking
 
-    Governance
+Governance
 
-    Community rewards
+Community rewards
 
-    Ecosystem partnerships
+Ecosystem partnerships
 
-    Additional DeFi functionality
+Additional DeFi functionality
 
 
 PHASE 4 — EXPANSION
 Planned
 
-    GENx ecosystem applications
+ The Jacks ecosystem applications
 
-    Additional integrations
+Additional integrations
 
-    Developer initiatives
+Developer initiatives
 
-    Expanded governance
+Expanded governance
 
-    Strategic partnerships
+Strategic partnerships
 
 
-PHASE 5 — GENx ECOSYSTEM
+PHASE 5 —  The Jacks ECOSYSTEM
 Long-Term Vision
 
-GENx aims to develop into a broader community-driven DeFi ecosystem where GENx provides utility across multiple products and services.
+The Jacks aims to develop into a broader community-driven DeFi ecosystem where The Jacks provides utility across multiple products and services.
 
 ROADMAP PRINCIPLE
 
 Roadmap items may change as development progresses.
 
-GENx will communicate significant changes through official channels.
+ The Jacks will communicate significant changes through official channels.
 
 BUILD. DEVELOP. DELIVER.
 
