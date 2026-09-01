@@ -1,7 +1,7 @@
-GENx Community
-Join the GENx Movement
+The Jacks Community
+Join the  The Jacks Movement
 
-GENx is being built with the community at its centre.
+The Jacks is being built with the community at its centre.
 
 Follow our official channels for:
 
@@ -17,30 +17,15 @@ Follow our official channels for:
 
     Ecosystem news
 
-
-OFFICIAL CHANNELS
-X
-
-X Link
-FACEBOOK
-
-Facebook Group Link
-GITHUB
-
-Github Link
-WEBSITE
-
-GENx Link
-
-BUY GENx.
+BUY The Jacks.
 
 VIEW TOKEN.
 
 SCAM WARNING
 
-GENx will never ask you to send GENx or SOL to an individual in exchange for guaranteed profits, guaranteed tokens or special access.
+ The Jacks will never ask you to send The Jacks or SOL to an individual in exchange for guaranteed profits, guaranteed tokens or special access.
 
-Always verify links through the official GENx website.
+Always verify links through the official The Jacks website.
 
 One token. One official mint address.
 
