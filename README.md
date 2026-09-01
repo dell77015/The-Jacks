@@ -27,7 +27,6 @@ Mint Address:
 
 OFFICIAL SOLANA MINT
 
-6cn91w7LaRUARJJKAtD8hjZGzpcFtJZyBAr9devmbMV5
 VERIFY BEFORE YOU BUY
 
 This is the official  The Jacks mint address currently published by the project.
