@@ -7,7 +7,7 @@ What blockchain is  The Jacks on?
 The Jacks operates on the Solana blockchain.
 What is the total supply?
 
-The planned maximum supply is 1,000,000,000 The Jacks.
+The planned maximum supply is 1,000,000,000 The Jacks
 What is The Jacks used for?
 
 The Jacks is intended to provide governance and ecosystem utility, with staking and additional functionality planned.
