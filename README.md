@@ -1,16 +1,16 @@
-GENx FAQ
-What is GENx?
+The Jacks FAQ
+What is The Jacks?
 
-GENx is the native token of the GENx ecosystem on Solana.
-What blockchain is GENx on?
+The Jacks is the native token of the  The Jacks ecosystem on Solana.
+What blockchain is  The Jacks on?
 
-GENx operates on the Solana blockchain.
+The Jacks operates on the Solana blockchain.
 What is the total supply?
 
-The planned maximum supply is 100,000,000 GENx.
-What is GENx used for?
+The planned maximum supply is 100,000,000 The Jacks.
+What is The Jacks used for?
 
-GENx is intended to provide governance and ecosystem utility, with staking and additional functionality planned.
+The Jacks is intended to provide governance and ecosystem utility, with staking and additional functionality planned.
 What is the official token address?
 
 6cn91w7LaRUARJJKAtD8hjZGzpcFtJZyBAr9devmbMV5
@@ -20,24 +20,24 @@ Is staking live?
 
 Check the Staking page for the current status.
 
-Do not send GENx to any staking address unless it is published through the official GENx website.
+Do not send The Jacks to any staking address unless it is published through the official The Jacks website.
 Is governance live?
 
 Governance will be clearly identified as LIVE once the governance system is deployed.
-Is GENx audited?
+Is The Jacks audited?
 
 The Security page will identify the current audit status.
 Is liquidity locked?
 
-Yes GENX liquidity is locked.
-Is GENx guaranteed to increase in value?
+Yes  The Jacks liquidity is locked.
+Is The Jacks guaranteed to increase in value?
 
 No.
 
-GENx is a cryptocurrency asset and its value can rise or fall substantially.
-Where can I buy GENx?
+The Jacks is a cryptocurrency asset and its value can rise or fall substantially.
+Where can I buy The Jacks?
 
-Only use trading links published through the official GENx website and independently verify the token mint address before trading.
-How can I contact GENx?
+Only use trading links published through the official The Jacks website and independently verify the token mint address before trading.
+How can I contact The Jacks?
 
 Use only the official social and communication channels published on this website.
