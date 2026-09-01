@@ -8,13 +8,12 @@ The token allocation below is designed to support ecosystem development, liquidi
 
 TOKEN ALLOCATION
 COMMUNITY & ECOSYSTEM
-
-4.31% — 4,300,000 M The Jacks
+5% -50000000 M The Jacks
 
 Community initiatives, ecosystem incentives, partnerships and future community programmes and ecosystem development, infrastructure, security and future opportunities.
 LIQUIDITY
 
-95.69% —  95690000 The Jacks
+95% —  950000000    M The Jacks
 
 Liquidity pool (LP) Locked.
 
