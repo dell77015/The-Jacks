@@ -3,7 +3,7 @@ The Beginning of a New Financial Era
 
 The Jacks is a community-driven DeFi ecosystem built on Solana, focused on governance, staking and long-term ecosystem utility.
 
-The Jacks is designed to give its community a meaningful role in the development of the ecosystem while creating practical utility around the GENx token.
+The Jacks is designed to give its community a meaningful role in the development of the ecosystem while creating practical utility around the  The Jacks token.
 BUILT ON SOLANA
 1,000,000,000  The Jacks MAXIMUM SUPPLY
 DEFI • STAKING • GOVERNANCE
@@ -27,9 +27,8 @@ TRANSPARENCY FIRST
 
 The Jacks believes users should be able to independently verify important project information.
 
-Official Solana Mint
+Official Solana Mint:
 
-6cn91w7LaRUARJJKAtD8hjZGzpcFtJZyBAr9devmbMV5
 
 Token: The Jacks
 Network: Solana
