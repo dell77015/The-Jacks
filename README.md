@@ -3,9 +3,9 @@ The Beginning of a New Financial Era
 
 The Jacks is a community-driven DeFi ecosystem built on Solana, focused on governance, staking and long-term ecosystem utility.
 
-The Jacks is designed to give its community a meaningful role in the development of the ecosystem while creating practical utility around Jack The Pirate King token.
+Jack The Pirate King is designed to give its community a meaningful role in the development of the ecosystem while creating practical utility around Jack The Pirate King token.
 BUILT ON SOLANA
-1,000,000,000  The Jacks MAXIMUM SUPPLY
+1,000,000,000  The  Jack The Pirate King MAXIMUM SUPPLY
 DEFI • STAKING • GOVERNANCE
 
 BUY Jack The Pirate King
@@ -15,7 +15,7 @@ VIEW TOKEN
 WHY The Jack The Pirate King?
 GOVERNANCE
 
-The Jacks is designed to give the community a voice in eligible The Jacks ecosystem decisions and future development.
+Jack The Pirate King is designed to give the community a voice in eligible  Jack The Pirate King ecosystem decisions and future development.
 STAKING
 
 Staking functionality is designed to encourage long-term participation within the The Jacks ecosystem.
