@@ -1,21 +1,21 @@
-The Jacks Whitepaper
-The Jacks— Building the Foundation for a Community-Driven DeFi Ecosystem
+Jack The Pirate King Whitepaper
+Jack The Pirate King— Building the Foundation for a Community-Driven DeFi Ecosystem
 Version 1.0
 
 1. Abstract
-The Jacks is a community-driven DeFi ecosystem built on Solana.
+Jack The Pirate King is a community-driven DeFi ecosystem built on Solana.
 
- The Jacks is designed to provide governance and ecosystem utility while supporting future staking and DeFi functionality.
+Jack The Pirate King is designed to provide governance and ecosystem utility while supporting future staking and DeFi functionality.
 
 2. Vision
 
- The Jacks aims to develop an accessible, transparent and community-driven ecosystem for the next generation of blockchain users.
+Jack The Pirate King aims to develop an accessible, transparent and community-driven ecosystem for the next generation of blockchain users.
 
-3. The  The Jacks Ecosystem
+3. Jack The Pirate King Ecosystem
 
 The ecosystem is planned around:
 
-The Jacks
+Jack The Pirate King
 
 Staking
 
@@ -28,47 +28,47 @@ Community participation
 Future ecosystem applications
 
 
-4.  The Jacks Token
+4.Jack The Pirate King  Token
 
 Blockchain: Solana
 
-Maximum Supply: 1,000,000,000 The Jacks
+Maximum Supply: 1,000,000,000 Jack The Pirate King
 
 Mint:
 
 
 5. Tokenomics
 
-See the complete allocation published on the  The Jacks Tokenomics page.
+See the complete allocation published on the  Jack The Pirate King Tokenomics page.
 
 6. Governance
 
-The Jacks is intended to provide governance utility within the  The Jacks ecosystem.
+Jack The Pirate King is intended to provide governance utility within the  The Jacks ecosystem.
 
 7. Staking
 
-Staking functionality is planned to provide a mechanism for eligible users to participate in the  The Jacks ecosystem.
+Staking functionality is planned to provide a mechanism for eligible users to participate in the Jack The Pirate King  ecosystem.
 
 8. Security
 
-The Jacks will prioritise transparent development, responsible wallet management and independent security review where appropriate.
+Jack The Pirate King will prioritise transparent development, responsible wallet management and independent security review where appropriate.
 
 9. Roadmap
 
-The Jacks will develop progressively through foundation, launch, ecosystem and expansion phases.
+Jack The Pirate King will develop progressively through foundation, launch, ecosystem and expansion phases.
 
 10. Risks
 
 Cryptocurrency assets involve significant risk.
 
- The Jacks may lose substantial or all of its value.
+Jack The Pirate King may lose substantial or all of its value.
 
-There is no guarantee that planned The Jacks features will be completed or that The Jacks will increase in value.
+There is no guarantee that planned Jack The Pirate King features will be completed or that Jack The Pirate King will increase in value.
 
 11. Conclusion
 
-The Jacks aims to build an ecosystem based on utility, transparency and community participation.
+Jack The Pirate King aims to build an ecosystem based on utility, transparency and community participation.
 
-The The Jacks journey begins with The Jacks.
+Jack The Pirate King journey begins.
 
 
