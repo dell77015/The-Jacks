@@ -1,5 +1,5 @@
-Contact The Jacks
-Official The Jacks Channels
+Contact Jack The Pirate King
+Official  Jack The Pirate King Channels
 
 For announcements and community support, use only the official channels listed below.
 
@@ -11,15 +11,15 @@ Facebook Link.
 
 SECURITY NOTICE
 
-The Jacks team members will never request your:
+Jack The Pirate King team members will never request your:
 
-    Seed phrase
+Seed phrase
 
-    Private key
+Private key
 
-    Wallet password
+Wallet password
 
-    Recovery phrase
+ecovery phrase
 
 Never provide these to anyone.
 
