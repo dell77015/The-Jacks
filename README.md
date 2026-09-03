@@ -1,31 +1,31 @@
-The Jacks Community
-Join the  The Jacks Movement
+Jack The Pirate King Community
+Join the  The  Jack The Pirate King Movement
 
-The Jacks is being built with the community at its centre.
+Jack The Pirate King is being built with the community at its centre.
 
 Follow our official channels for:
 
-    Development updates
+Development updates
 
-    Launch announcements
+Launch announcements
 
-    Governance information
+Governance information
 
-    Staking updates
+Staking updates
 
-    Community events
+Community events
 
-    Ecosystem news
+Ecosystem news
 
-BUY The Jacks.
+BUY The Jack The Pirate King.
 
 VIEW TOKEN.
 
 SCAM WARNING
 
- The Jacks will never ask you to send The Jacks or SOL to an individual in exchange for guaranteed profits, guaranteed tokens or special access.
+Jack The Pirate King will never ask you to send The Jacks or SOL to an individual in exchange for guaranteed profits, guaranteed tokens or special access.
 
-Always verify links through the official The Jacks website.
+Always verify links through the official  Jack The Pirate King website.
 
 One token. One official mint address.
 
