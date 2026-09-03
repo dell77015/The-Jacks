@@ -22,6 +22,6 @@ Future Cross-Chain Integrations
 
 Token Address : 
 
-    Symbol : Jack The Pirate King (PIRJx)
+Symbol : Jack The Pirate King (PIRJx)
 
 As the ecosystem evolves, Jack The Pirate King will continue introducing innovative products designed to increase utility, strengthen decentralization, and create lasting value for the community.
