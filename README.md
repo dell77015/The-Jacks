@@ -1,46 +1,46 @@
-The Jacks Governance
-Your Voice in the Future of The Jacks
+Jack The Pirate King Governance
+Your Voice in the Future of Jack The Pirate King
 
-The Jacks is designed to become increasingly community-driven as the ecosystem develops.
+Jack The Pirate King is designed to become increasingly community-driven as the ecosystem develops.
 
- The Jacks is intended to provide governance utility within eligible The Jacks ecosystem decisions.
+Jack The Pirate King is intended to provide governance utility within eligible The Jacks ecosystem decisions.
 
 POTENTIAL GOVERNANCE AREAS
 
-The Jacks governance may eventually cover:
+Jack The Pirate King governance may eventually cover:
 
-    Ecosystem proposals
+Ecosystem proposals
 
-    Community initiatives
+Community initiatives
 
-    Treasury proposals
+Treasury proposals
 
-    Staking parameters
+Staking parameters
 
-    Ecosystem development
+Ecosystem development
 
-    Partnerships
+Partnerships
 
-    Future product priorities
+Future product priorities
 
 
 HOW IT WILL WORK
 
-When governance is launched, eligible The Jacks holders will be able to review proposals and participate according to the published governance rules.
+When governance is launched, eligible  Jack The Pirate King holders will be able to review proposals and participate according to the published governance rules.
 
 Governance rules will specify:
 
-    Voting eligibility
+Voting eligibility
 
-    Proposal requirements
+Proposal requirements
 
-    Voting periods
+Voting periods
 
-    Quorum requirements
+Quorum requirements
 
-    Approval thresholds
+Approval thresholds
 
-    Execution procedures
+Execution procedures
 
 
 CURRENT STATUS
@@ -51,6 +51,6 @@ Governance should only be described as operational once the relevant system has 
 
 COMMUNITY FIRST
 
-The Jacks believes the long-term success of the ecosystem depends on an informed and engaged community.
+Jack The Pirate King believes the long-term success of the ecosystem depends on an informed and engaged community.
 
- The Jacks governance is intended to provide a transparent mechanism for community participation.
+Jack The Pirate King governance is intended to provide a transparent mechanism for community participation.
