@@ -1,27 +1,27 @@
-The The Jacks Ecosystem
+Jack The Pirate King Ecosystem
 
-The Jacks is more than a token—it is an expanding decentralized ecosystem built to deliver real utility.
+Jack The Pirate King is more than a token—it is an expanding decentralized ecosystem built to deliver real utility.
 
 Every component works together to create a seamless digital financial experience.
 
 Our ecosystem includes:
 
-    The Jacks Coin
+Jack The Pirate King Coin
 
-    The Jacks Wallet
+Jack The Pirate King Wallet
 
-    Governance Platform
+Governance Platform
 
-    Staking Infrastructure
+taking Infrastructure
 
-    Community Treasury
+Community Treasury
 
-    DeFi Services
+DeFi Services
 
-    Future Cross-Chain Integrations
+Future Cross-Chain Integrations
 
-    Token Address : 6cn91w7LaRUARJJKAtD8hjZGzpcFtJZyBAr9devmbMV5
+Token Address : 
 
-    Symbol : The Jacks (T3JX)
+    Symbol : Jack The Pirate King (PIRJx)
 
-As the ecosystem evolves,  The Jacks will continue introducing innovative products designed to increase utility, strengthen decentralization, and create lasting value for the community.
+As the ecosystem evolves, Jack The Pirate King will continue introducing innovative products designed to increase utility, strengthen decentralization, and create lasting value for the community.
